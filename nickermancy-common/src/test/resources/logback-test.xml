@@ -1,0 +1,4 @@
+<configuration>
+    <root level="INFO"/>
+    <logger name="com.nickermancy.logging.tests.LoggerTests" level="TRACE"/>
+</configuration>
