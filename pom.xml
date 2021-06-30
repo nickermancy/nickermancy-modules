@@ -38,7 +38,7 @@
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
 
         <!-- Managed Dependency Versions -->
-        <spring-boot.version>2.4.5</spring-boot.version>
+        <spring-boot.version>2.5.2</spring-boot.version>
         <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
     </properties>
 
